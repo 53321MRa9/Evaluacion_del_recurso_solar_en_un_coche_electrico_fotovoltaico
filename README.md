@@ -1,11 +1,11 @@
 # Evaluacion_del_recurso_solar_en_un_coche_electrico_fotovoltaico
 
-#  TFG de titulación : Ingeniería Electrónica y Automática Industrial
+Alumno : ÁLVARO MUÑOZ RUIZ 
 
-# Alumno : ÁLVARO MUÑOZ RUIZ 
+TFG de titulación : Ingeniería Electrónica y Automática Industrial
 
-# Universidad: UNIVERSIDAD POLITÉCNICA DE MADRID
+Universidad: UNIVERSIDAD POLITÉCNICA DE MADRID
 
-# Escuela: ETSIDI
+Escuela: ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y DISEÑO INDUSTRIAL
 
-# Año : 2021
+Curso : 2020 - 2021
